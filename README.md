@@ -15,3 +15,5 @@
 :heavy_check_mark: 2-stage detector 구현 후 Test (OpenCV로 얼굴 감지 후 -> CNN 통과)<br>
 :heavy_check_mark: CNN architec <br>
 ![image](https://user-images.githubusercontent.com/101653424/198871201-47b76cbf-bb4e-41ae-9642-a5ce8a9b7127.png)
+<br>
+![image](https://user-images.githubusercontent.com/101653424/198871226-1a0af40b-db95-43f4-b44e-e3812c95920f.png)

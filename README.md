@@ -13,3 +13,4 @@
 :heavy_check_mark: Face Mask Data set labeling<br>
 :heavy_check_mark: 1-stage detector 구현 후 Test (yolov5)<br>
 :heavy_check_mark: 2-stage detector 구현 후 Test (OpenCV로 얼굴 감지 후 -> CNN 통과)<br>
+:heavy_check_mark: CNN architec <br>
